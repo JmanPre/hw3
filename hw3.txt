@@ -1,0 +1,27 @@
+touch = create file
+
+ls = list items
+
+cd () = change into a different location
+
+cd .. = going back
+
+mkdir = making a folder
+
+pwd = information on where you are
+
+rm = remove file completely
+
+cd (letter) = list different folders with that letter
+
+git init = start process
+
+git add = step one of pushing to git hub
+
+git commit = step two of pushing
+
+git push = final step of pushing 
+
+commit -m 'text' = to make a comment on what you commited
+
+open . = open current folder
